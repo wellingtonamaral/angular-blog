@@ -22,6 +22,10 @@
 }
 .content__description{
     margin-top: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: justify;
+
 }
 .content__description > p{
     color: #D0D0D0;
